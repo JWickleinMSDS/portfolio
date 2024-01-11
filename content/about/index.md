@@ -10,24 +10,18 @@ You can customize the about page heading and disable social links if desired. Th
 
 ## Who am I?
 
-Grainger
-Senior Director Information Management
-November 2018 - Present (5 years 3 months)
-Greater Chicago Area
-• Lead an organization of ~200 personnel spanning a variety of functions
-including: Data Engineering, Data Architecture, Data Analytics, Metadata
-Management, Middleware (ESB), Mid-Tier, B2B Pricing Management, Product
-Information Management, Master Data Management, SAP Customer Master,
-and Quality Assurance for Grainger's eCommerce and ERP platforms.
-• Conceived and successfully implemented an initiative to build a modern,
-cloud based data warehouse and analytic environment leveraging AWS S3,
-Snowflake, AWS Sagemaker, and Python (ETL) targeted toward the advanced
-analytic and data science community.
-• Significantly reduced blended rates and raised the talent level by introducing
-a new, higher-skilled offshore group based in Eastern Europe. This action
-enabled my organization to produce greater output while reducing cost.
-Further, it enabled us to procure more modern technical skillsets that were
-lacking within the existing workforce.
+**Grainger**  
+
+**Senior Director Information Management**
+**November 2018 - Present (5 years 3 months)**
+**Greater Chicago Area**  
+
+• Lead an organization of ~200 personnel spanning a variety of functions including: Data Engineering, Data Architecture, Data Analytics, Metadata Management, Middleware (ESB), Mid-Tier, B2B Pricing Management, Product Information Management, Master Data Management, SAP Customer Master, and Quality Assurance for Grainger's eCommerce and ERP platforms.  
+
+• Conceived and successfully implemented an initiative to build a modern, cloud-based data warehouse and analytic environment leveraging AWS S3, Snowflake, AWS Sagemaker, and Python (ETL) targeted toward the advanced analytic and data science community.  
+
+• Significantly reduced blended rates and raised the talent level by introducing a new, higher-skilled offshore group based in Eastern Europe. This action enabled my organization to produce greater output while reducing cost. Further, it enabled us to procure more modern technical skillsets that were lacking within the existing workforce.  
+
 
 
 
