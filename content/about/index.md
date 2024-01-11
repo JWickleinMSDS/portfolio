@@ -24,9 +24,9 @@ I am an engineering leader with experience leading teams of data, software, qual
 
 • Significantly reduced blended rates and raised the talent level by introducing a new, higher-skilled offshore group based in Eastern Europe. This action enabled my organization to produce greater output while reducing cost. Further, it enabled us to procure more modern technical skillsets that were lacking within the existing workforce.
 
-**Gogo**
-**Senior Director - Information Management**
-**March 2017 - November 2018 (1 year 9 months)**
+**Gogo**  
+**Senior Director - Information Management**  
+**March 2017 - November 2018 (1 year 9 months)**  
 
 • Lead a large organization of data engineers, data quality analysts, project
 managers, data modelers, data analysts, architects, scrum masters, data
@@ -50,7 +50,7 @@ Finance, Sales, Engineering, Operations, and external airline clients.
 reference guide and foundation for the corporate Data Governance
 organization that I lead.
 
-**Director - Information Management**
+**Director - Information Management**  
 **April 2014 - March 2017 (3 years)**
 
 • Led an Information Management organization consisting of Hadoop/big data
@@ -77,7 +77,7 @@ SQL Server RDBMS, Hadoop Data Cluster (Cloudera, YARN, OOZIE, PIG,
 SQOOP, custom Java parsers) SQL Server Integration Service (SSIS), SQL
 Server Reporting Services (SSRS), SAP Business Objects, and Tableau.
 
-**Manager - Data Warehouse**
+**Manager - Data Warehouse**  
 **April 2013 - March 2014 (1 year)**
 
 • Manager of Gogo’s Data Warehouse and Business Intelligence team
@@ -91,9 +91,9 @@ the ETL application.
 • Fulfilled numerous data warehouse enhancements and reporting/analysis
 requests from multiple departments across the organization.
 
-**U.S. Cellular**
-**Manager - Information Management (Business Intelligence)**
-**February 2011 - April 2013 (2 years 3 months)**
+**U.S. Cellular**  
+**Manager - Information Management (Business Intelligence)**  
+**February 2011 - April 2013 (2 years 3 months)**  
 
 • Manager of Data Warehousing and Business Intelligence with 6 direct reports
 and 5 external consultants consisting of BI Developers, ETL Developers, and
@@ -107,8 +107,8 @@ Intelligence components for 15 enterprise projects – including multiple
 marketing product releases, Data Throttling, expansion of sales into big box
 retailers, and a data center migration. 
 
-**BI Developer**
-**December 2002 - February 2011 (8 years 3 months)**
+**BI Developer**  
+**December 2002 - February 2011 (8 years 3 months)**  
 
 • Information Management Team Lead with accountability for Business
 Intelligence and ETL deliverables on multiple enterprise projects
@@ -120,14 +120,14 @@ developers
 • Successful delivery of the Business Intelligence components for a dozen
 major U.S. Cellular® enterprise projects. 
 
-**Verizon Wireless**
-**Systems Analyst**
-**June 2001 - December 2002 (1 year 7 months)**
+**Verizon Wireless**  
+**Systems Analyst**  
+**June 2001 - December 2002 (1 year 7 months)**  
 
 • Supported Pricing & Promotional reference data on Convergys billing
 system, Cellware.
 
-**Education**
+**Education**  
 
 Northwestern University
 Master of Science - MS, Data Science · (September 2021 - December 2024)
