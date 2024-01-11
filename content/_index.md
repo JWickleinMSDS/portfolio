@@ -1,6 +1,6 @@
 ---
-title: Jump-start your personal blog and portfolio with the Hugo Liftoff theme.
-subtitle: Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand.
+title: Highly experienced engineering Sr. Director/VP
+subtitle: Forward-thinking, customer-focused Senior Director/VP leading an organization of ~200 software engineers, data engineers, and quality engineers across a variety of groups including Data & Analytics, Pricing, Middleware, Product Information Management, Master Data Management, Metadata Management, and Quality Assurance for eCommerce and ERP. 
 seo_title: Hugo Liftoff | Hugo theme for creators
 
 primary_cta_page: "about"
