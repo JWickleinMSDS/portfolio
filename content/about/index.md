@@ -10,24 +10,20 @@ You can customize the about page heading and disable social links if desired. Th
 
 ## Who am I?
 
-**Grainger**  
+I am an engineering leader with experience leading teams of data, software, quality and machine learning engineers. I currently lead an organization of 200+ engineers responsible for a variety custom and commerically built software applications.  I have extensive experience in Data & Analtyics and recently formed a machine learning platform and operations team to support the growth of machine learning within our organization. 
 
-**Senior Director Information Management**
-**November 2018 - Present (5 years 3 months)**
-**Greater Chicago Area**  
+## My Experience
+
+**Grainger**  
+**Senior Director Information Management**  
+
+**November 2018 - Present (5 years 3 months)** 
 
 • Lead an organization of ~200 personnel spanning a variety of functions including: Data Engineering, Data Architecture, Data Analytics, Metadata Management, Middleware (ESB), Mid-Tier, B2B Pricing Management, Product Information Management, Master Data Management, SAP Customer Master, and Quality Assurance for Grainger's eCommerce and ERP platforms.  
 
 • Conceived and successfully implemented an initiative to build a modern, cloud-based data warehouse and analytic environment leveraging AWS S3, Snowflake, AWS Sagemaker, and Python (ETL) targeted toward the advanced analytic and data science community.  
 
-• Significantly reduced blended rates and raised the talent level by introducing a new, higher-skilled offshore group based in Eastern Europe. This action enabled my organization to produce greater output while reducing cost. Further, it enabled us to procure more modern technical skillsets that were lacking within the existing workforce.  
-
-
-
-
-## My Experience
-
-Integer est purus, aliquam ac enim aliquet, viverra sodales mauris. Integer neque sapien, fermentum sit amet augue in, vulputate pellentesque turpis. Quisque eget blandit turpis, in semper lectus.
+• Significantly reduced blended rates and raised the talent level by introducing a new, higher-skilled offshore group based in Eastern Europe. This action enabled my organization to produce greater output while reducing cost. Further, it enabled us to procure more modern technical skillsets that were lacking within the existing workforce.
 
 ## Learn More
 
