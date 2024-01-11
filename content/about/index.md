@@ -1,12 +1,10 @@
 ---
 type: about
 linktitle: About
-title: John Wicklein
+title: John Wicklein Bio
 seo_title: About
 description: Learn more about my background and experience.
 ---
-
-You can customize the about page heading and disable social links if desired. The rest of the content can be added with markdown. Please see [Github](https://github.com/wjh18/hugo-liftoff) for a full list of features and documentation.
 
 ## Who am I?
 
@@ -134,6 +132,6 @@ Master of Science - MS, Data Science · (September 2021 - December 2024)
 Truman State University
 Bachelor’s of Science Degree  · (1996 - 2000)
 
-## Learn More
+## Contact Me
 
-You can also link to [other pages]({{< ref "contact" >}}) in your markdown.
+johnwicklein2024@u.northwestern.edu
