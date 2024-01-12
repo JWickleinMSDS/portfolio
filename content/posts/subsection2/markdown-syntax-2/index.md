@@ -18,9 +18,9 @@ feature_image_alt:
 categories:
   - Artificial Intelligence
 tags:
-  - Markdown
-  - HTML
-series: 
+  ##- Markdown
+  ##- HTML
+##series: 
   - Learn Markdown
 
 toc: true
@@ -30,132 +30,30 @@ newsletter: true
 disable_comments: false
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
-
 ## Headings
 
-The following HTML `<h2>`—`<h6>` elements represent five levels of section headings. `<h2>` is the highest section level you should use in markdown while `<h6>` is the lowest. `<h1>` should be reserved for the page title.
+How Gogo uses AI to predict equipment failures, personalize customer experiences
 
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+In-flight Wi-Fi, like smartphones and social media, is a convenience that’s become tough to imagine doing without.
 
-## Paragraph
+A pioneer in this field is Gogo, which piloted its first in-flight broadband system 10 years ago and now services over 17 of the world’s largest airlines, including British Airways, American Airlines, Air Canada, Alaska Airlines, and Delta. You might not associate artificial intelligence (AI) with airline broadband, but it’s one of the key ways Gogo ensures that its services — which include streaming television and movies, live television, and text messaging — run smoothly and efficiently.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+“A lot of our focus has been on getting all [of the data we’re collecting] in one place and enabling analytics,” John Wicklein, senior director of information management, said at VentureBeat’s Transform 2018 conference. “You have a large number of data sources, and you need to understand the health of the aircraft as it flies across the sky.”
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+In that respect, Gogo has a veritable firehose to work with: the more than 2,500 commercial aircraft and 6,600 business aircraft equipped with its Wi-Fi services.
 
-## Blockquotes
+According to Wicklein, Gogo’s AI journey started with structured data — variables like system uptime, latency, and overall quality of service. Next came unstructured data, like the number of concurrent Wi-Fi sessions and video views during a flight.
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+He gave one example: the log files from servers stored in aircraft. Gogo records the machines’ fan speeds, which are an indication of their temperature.
 
-### Blockquote without attribution
+“We offload it using a cellular network [when the plane’s on the tarmac] and perform analysis on it,” Wicklein said.
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+Those data and AI-driven inquiries inform day-to-day maintenance — they’re used to build decision trees for Gogo’s server operators on the ground and help predict equipment failures.
 
-### Blockquote with attribution
+“We look at the results and, in instances where we pulled [a server] box and it turned out that nothing was wrong, [feed that information] into the network,” he said.
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+Equipment monitoring isn’t the only thing the company is targeting with AI. It’s tapping a suite of AWS Analytics tools to improve the in-flight customer experience, in part by applying machine intelligence to user behavior (e.g., the devices they use) and flight information (flight length and destination city).
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+Those insights feed into Amazon Web Services, which Gogo’s data scientists use to build project dashboards that are shared with its partners. The reports have already prompted two airlines to redesign their in-flight entertainment systems and sparked others to investigate ways to personalize their systems.
 
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-## Code Blocks
-
-### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Code block with Hugo's internal highlight shortcode
-
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+“[We leverage the] data to get a better sense of what’s going on,” Wicklein said.
