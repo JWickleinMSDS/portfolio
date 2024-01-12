@@ -1,8 +1,8 @@
 ---
 title: John Wicklein Portfolio
 seo_title: John Wicklein Portfolio
-summary: This is a personal portfolio build using Hugo.
-description: This is a personal portfolio build using Hugo.
+summary: This is a personal portfolio I built using Hugo.
+description: This is a personal portfolio I built using Hugo.
 slug: portfolio-project-1
 author: John Wicklein
 
@@ -23,11 +23,11 @@ techstack:
     - HTML/CSS
     - JavaScript
     - Netlify
-live_url: https://hugo-liftoff.netlify.app
+live_url: https://jwickleinresume.netlify.app/
 source_url: https://github.com/wjh18/hugo-liftoff
 ---
 
 
 
-This project was a personal, profressional portfolio that I created as part of Northwestern's MSDS program.  Specifically, MSDS 431 Data Engineering with Go.  The website was created using Hugo, GitHub, and Netlify.  For details on the code please click on the "Source" button above which contains a link to the GitHub repo.
+This project was a personal, profressional portfolio that I created as part of Northwestern's MSDS program.  Specifically, MSDS 431 Data Engineering with Go.  The website was created using Hugo, GitHub, and Netlify.  To view the website click the "Live" button above.  For details on the code please click on the "Source" button above which contains a link to the GitHub repo.
 
