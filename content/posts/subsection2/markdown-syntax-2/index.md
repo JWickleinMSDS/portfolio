@@ -21,7 +21,7 @@ tags:
   ##- Markdown
   ##- HTML
 ##series: 
-  - Learn Markdown
+  ##- Learn Markdown
 
 toc: true
 related: true
@@ -29,8 +29,6 @@ social_share: true
 newsletter: true
 disable_comments: false
 ---
-
-## Headings
 
 How Gogo uses AI to predict equipment failures, personalize customer experiences
 

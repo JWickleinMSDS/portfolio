@@ -1,5 +1,5 @@
 ---
 title: Posts
-summary: Tell visitors about your posts by customizing this text.
+summary: Articles featuring John Wicklein
 description: Explore some of my recent posts.
 ---
