@@ -1,13 +1,13 @@
 ---
-title: Markdown Syntax Guide 2
-seo_title: Markdown Syntax Guide 2
-summary: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title: How Gogo uses AI to predict equipment failures, personalize customer experiences
+seo_title: How Gogo uses AI to predict equipment failures, personalize customer experiences
+summary: How Gogo uses AI
+description: John Wicklein, senior director of information management at Gogo, spoke at VentureBeat’s Transform 2018 summit about AI’s role in-flight systems maintenance.
 slug: markdown-syntax-2
-author: John Doe
+author: Kyle Wiggers
 
 draft: false
-date: 2020-11-19T21:21:46-05:00
+date: 2018-08-19T21:21:46-05:00
 lastmod: 
 expiryDate: 
 publishDate: 
@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt: 
 
 categories:
-  - Web Development
+  - Artificial Intelligence
 tags:
   - Markdown
   - HTML
