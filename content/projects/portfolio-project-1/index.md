@@ -24,7 +24,7 @@ techstack:
     - JavaScript
     - Netlify
 live_url: https://jwickleinresume.netlify.app/
-source_url: https://github.com/wjh18/hugo-liftoff
+source_url: https://github.com/JWickleinMSDS/portfolio
 ---
 
 
