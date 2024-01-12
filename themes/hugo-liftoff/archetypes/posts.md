@@ -19,10 +19,10 @@ categories:
 tags:
 series:
 
-toc: true
+toc: false
 related: true
 social_share: true
-newsletter: true
+newsletter: false
 disable_comments: false
 ---
 
